@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexDai54202
-- 👀 I’m interested in any programming-related topics, oppurtunities, and internships.
-- 🌱 I’m currently learning C, python, Java, and uses of WSLs.
+- 👀 I’m interested in any programming-related oppurtunities, puzzles, and internships.
+- 🌱 I’m currently learning various techniques used in data science.
 - 💞️ I’m looking to collaborate on any computer-science related oppurtunities and internships.
 - 📫 How to reach me jalexdai54202@gmail.com
 

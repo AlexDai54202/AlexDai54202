@@ -4,6 +4,7 @@ I will have earned a Bachelor's Degree with a Major of Computer Science and a Mi
 My major studies in college focus on, in majority, Data Science related disciplines. I opted for a minor in Mathematics to further increase my knowledge of practical use cases of Linear Algebra in Data Science related fields.
 
 Aside from Data Science related studies, I'm a hobbyist in database curation, automated frontend generation, and datamining.
-In the past four years, I've attended internships at the National Institute of Standards and Technology, and contributed to a project relating to identity security.
+
+In the past four years, I've attended internships at the National Institute of Standards and Technology, and contributed to various projects. These include studies relating to identity security, neural network models, and curation of GitHub pages.
 
 Please reach out to me at jalexdai54202@gmail.com for any job-related oppurtunities.
